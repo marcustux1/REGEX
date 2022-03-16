@@ -1,1 +1,3 @@
+# REGEX Curso Python for Everybody
 
+Script Python identifica por expressão Regex os números em um texto, cria uma lista com os números, e no final apresenta a Soma de todos os números encontrados.
